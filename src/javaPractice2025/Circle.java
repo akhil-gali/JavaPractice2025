@@ -9,7 +9,7 @@ public class Circle {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the radius of the Circle: ");
 		double radius=sc.nextDouble();
-		System.out.println("Area of the circle  is : "+3.14*radius*radius);
+		System.out.println("Area of the given	 circle  is : "+3.14*radius*radius);
 		sc.close();
 	}
 
