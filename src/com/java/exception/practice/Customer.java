@@ -15,6 +15,7 @@ public class Customer {
 		} catch (AgeException e) {
 			// TODO Auto-generated catch block
 			System.err.println(e);
+			//printing error
 		}
 
 	}
